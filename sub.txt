@@ -1,1 +1,1 @@
-vless://2c783c7e-8f61-4e5f-b91c-551955c68f5d@gaming.greencol.site:443?encryption=none&security=tls&sni=gaming.greencol.site&fp=chrome&insecure=1&allowInsecure=1&type=httpupgrade&path=%2FH%3Fed%3D2560#gca37p8v
+vless://2c783c7e-8f61-4e5f-b91c-551955c68f5d@gaming.greencol.site:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&insecure=1&fp=chrome&type=httpupgrade&allowInsecure=1&sni=gaming.GREenCOl.site#XHTTP%20PL%20%F0%9F%87%B5%F0%9F%87%B1
