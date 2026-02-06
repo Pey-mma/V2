@@ -1,1 +1,4 @@
 vless://393726d5-2b6e-4a34-8df2-ebe22f934da0@gaming.greencol.site:443?encryption=none&security=tls&sni=gaming.greencol.site&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2FH%3Fed%3D2560#XHTTP%20PL%20%F0%9F%87%B5%F0%9F%87%B1
+vless://393726d5-2b6e-4a34-8df2-ebe22f934da0@cld2.lordofwest.ir:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=gaming.greencol.site#XHTTP%20PL%20%F0%9F%87%B5%F0%9F%87%B1
+vless://393726d5-2b6e-4a34-8df2-ebe22f934da0@172.64.152.23:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=gaming.greencol.site#XHTTP%20PL%20%F0%9F%87%B5%F0%9F%87%B1
+vless://393726d5-2b6e-4a34-8df2-ebe22f934da0@172.64.85.167:443?path=%2FH%3Fed%3D2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=gaming.greencol.site#XHTTP%20PL%20%F0%9F%87%B5%F0%9F%87%B1
