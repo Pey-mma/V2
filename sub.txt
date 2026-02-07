@@ -1,1 +1,1 @@
-vless://e01a3fd1-7cab-4660-bec1-19ad7f4f6277@172.64.152.23:443?security=tls&sni=gaming.greencol.site&allowInsecure=1&fp=chrome&type=httpupgrade&path=/H?ed%3D1320&encryption=none#z7m9zn5v
+vless://e01a3fd1-7cab-4660-bec1-19ad7f4f6277@172.64.152.23:443?security=tls&sni=gaming.greencol.site&allowInsecure=1&fp=chrome&type=httpupgrade&path=/H?ed%3D1320&encryption=none#XHTTP PL 🇵🇱
